@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @zackNarcos
-- 👀 I’m interested in  tous ce qui est du domaine du codage
-- 🌱 I’m currently learning la programmation 
-- 💞️ I’m looking to collaborate on d'ifferent projet de devellope web pour palier a mon apprentissage
+- 👀 I’m interested with learning and development 
 - 📫 How to reach me zackabess@gmail.com
 
 <!---
