@@ -1,4 +1,7 @@
 - 👋 Hi, I’m @zackNarcos
+- Currently studying for a Master's degree in Development and Design of Digital Solutions.
+- From my student journey to my Freelance life I have designed and produced several Solutions, some of which are stored here.
+- take a look 😁
 - 👀 I’m interested with learning and development 
 - 📫 How to reach me zackabess@gmail.com
 
